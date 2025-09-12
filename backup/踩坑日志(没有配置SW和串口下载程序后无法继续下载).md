@@ -1,0 +1,1 @@
+* 解决方法：魔术棒 -> Debug -> Setting -> Connect 选择 `underReset` 然后下载即可
